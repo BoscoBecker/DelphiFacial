@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/17 11:53:31.000.016,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/10/17 11:54:01.000.290,C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\Desenvolvimento\Pesquisas\FaceDetect\untMain.pas</Transaction>
+    <Transaction>2019/10/17 11:54:01.000.290,C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\Desenvolvimento\Pesquisas\FaceDetect\untMain.dfm</Transaction>
+    <Transaction>2019/10/17 11:54:10.000.437,C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Project2.dproj=E:\Desenvolvimento\Pesquisas\FaceDetect\FaceDetectApp.dproj</Transaction>
+    <Transaction>2019/10/17 12:05:14.000.177,=E:\Desenvolvimento\Pesquisas\FaceDetect\unitFaces.pas</Transaction>
+    <Transaction>2024/02/06 22:20:01.000.739,=D:\Projetos\Delphi\FaceDetect\FaceDetect-master\FaceDetect\View\unitFaces.pas</Transaction>
+    <Transaction>2024/02/06 22:20:02.000.312,=D:\Projetos\Delphi\FaceDetect\FaceDetect-master\FaceDetect\View\untPrincipal.pas</Transaction>
+    <Transaction>2024/02/06 22:20:02.000.033,=D:\Projetos\Delphi\FaceDetect\FaceDetect-master\FaceDetect\View\untMain.pas</Transaction>
+    <Transaction>2024/02/06 22:20:20.000.950,D:\Projetos\Delphi\FaceDetect\FaceDetect-master\FaceDetect\View\untPrincipal.pas=</Transaction>
+    <Transaction>2024/02/06 22:23:23.000.837,=D:\Projetos\Delphi\FaceDetect\FaceDetect-master\FaceDetect\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 22:24:47.000.741,D:\Projetos\Delphi\FaceDetect\FaceDetect-master\FaceDetect\Classes\Classe.FaceDetect.Connect.pas=D:\Projetos\Delphi\FaceDetect\FaceDetect-master\FaceDetect\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 22:26:38.000.740,D:\Projetos\Delphi\FaceDetect\FaceDetect-master\FaceDetect\Classes\Classe.FaceDetect.Connect.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

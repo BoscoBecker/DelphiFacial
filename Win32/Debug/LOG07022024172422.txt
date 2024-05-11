@@ -1,0 +1,1 @@
+Hora do Inicio do Log: 07/02/2024 17:24:07 - Erro no método - ChangeImageExposure Classe de Erro: EInvalidGraphicOperation Mensagem de erro: Scan line index out of range Linha do Erro: 
