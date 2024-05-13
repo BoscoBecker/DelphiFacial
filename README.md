@@ -31,4 +31,4 @@ begin
 end;
 ```
 
-Todo projeto já está na estrutura para se usado.
+Todo projeto já está na estrutura para ser usado.
