@@ -31,4 +31,4 @@ begin
 end;
 ```
 
-Todo projeto já está na estrutura para ser usado.
+Todo projeto já está na estrutura para ser usado. Algumas melhorias de [https://github.com/jmfjorge/FaceDetect](https://github.com/jmfjorge)
